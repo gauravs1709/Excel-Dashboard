@@ -1,2 +1,2 @@
 # Excel-Dashboard
-Creating Dashboard on microsoft excel on ecommerce store data analysis. 
+Created an excel Dashboard on ecommerce store data analysis. 
